@@ -2,7 +2,7 @@
 name = "chatbot-rag"
 version = "0.1.0"
 description = "Chatbot RAG con PDF, Langchain, Ollama y Streamlit"
-authors = ["Jhon Ramos <tu_email@ejemplo.com>"]
+authors = ["Jhon Ramos]
 readme = "README.md"
 requires-python = ">=3.10"
 
